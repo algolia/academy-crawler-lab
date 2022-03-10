@@ -10,4 +10,4 @@ Please change to following with your own information :
 - `INDEX NAME` (line 10)
 
 ## License
-Apache 2.0 - See [LICENSE](https://github.com/algolia/crawler-configurations-examples/blob/master/LICENSE) for more information.
+Apache 2.0 - See [LICENSE](https://github.com/algolia/academy-crawler-lab/blob/main/LICENSE) for more information.
